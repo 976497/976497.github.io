@@ -1,0 +1,52 @@
+b.BCxpdA{
+   color:#686;
+   }
+b.BCxpgA{
+   font-size:30px;
+   }
+del.DCxpdA{
+   color:#866;
+   }
+div.DCxprA{
+   background-color:#222;
+   display:inline-table;
+   font-size:16px;
+   }
+div.DCxprB{
+   display:inline-table;
+   width:1000px;
+   }
+table{
+   text-align:left;
+   }
+div.DCprgA{
+   background-color:#fff;
+   display:inline-block;
+   text-align:center;
+   }
+div.DCprgBa{/*pod*/
+   background-color:#1a1a1a;
+   display:inline;
+   position:absolute;
+   width:700px;
+   z-index:1;
+   }
+div.DCprgBb{/*nad*/
+   background-color:#467;
+   display:inline;
+   position:absolute;
+   z-index:2;
+   }
+div.DCprgBc{
+   color:#aaa;
+   display:inline-block;
+   position:relative;
+   text-align:center;
+   width:700px;
+   z-index:3;
+   }
+div.DCprgC{
+   background-color:#fff;
+   display:inline-block;
+   text-align:center;
+   }

@@ -1,0 +1,54 @@
+div.DCtopA{
+   background-color:#333;
+   border:0px solid #f00;
+   width:100%;
+   }
+div.DCtopB{
+   border:0px solid #f00;
+   display:inline-table;
+   width:1000px;
+   }
+div.DCtopC{
+   border:0px solid #f00;
+   display:table-cell;
+   width:200px;
+   }
+div.DCtopD{
+   border:1px solid #f00;
+   display:inline-table;
+   }
+
+a.ACtopA{
+   background-color:#222;
+   color:#888;
+   display:table-cell;
+   font-weight:bold;
+   text-decoration:none;
+   vertical-align:text-top;
+   width:100px;
+   }
+a.ACtopA:hover{
+   background-color:#444;
+   color:#eee;
+   }
+a.ACtopA:active{
+   background-color:#fff;
+   color:#000;
+   }
+a.ACtopB{
+   background-color:#333;
+   color:#888;
+   display:table-cell;
+   font-weight:bold;
+   text-decoration:none;
+   width:100px;
+   vertical-align:text-top;
+   }
+a.ACtopB:hover{
+   background-color:#444;
+   color:#fff;
+   }
+a.ACtopB:active{
+   background-color:#fff;
+   color:#000;
+   }
