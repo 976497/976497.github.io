@@ -1,6 +1,0 @@
-Automation
-Linux
-Open Source
-Research
-Robotics
-Web Scrapping
