@@ -20,7 +20,7 @@ div.DCtopD{
    }
 
 div.DCtopE{
-   border:0px solid #f00;
+   border:1px solid #f00;
    background-color:#222;
    color:#888;
    display:table-cell;
@@ -33,7 +33,7 @@ div.DCtopE{
    vertical-align:text-bottom;
    }
 span.SCtopA{
-   border:0px solid #f00;
+   border:1px solid #f00;
    display:inline-block;
    }
 
