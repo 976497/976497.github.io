@@ -8,6 +8,7 @@ Company website;\
 Bots;\
 Data processing;\
 Automation;\
+Visual reports;\
 Control systems;\
 Constant environmental measurments;\
 Animations;\
@@ -15,6 +16,12 @@ Robots;\
 Personal website;\
 UI/IA designer;\
 IT subcontractor;\
+Online checklists;\
+Business Continuity System;\
+Real-time reporting system;\
+Cross-matching;\
+Graphical effects;\
+Workflows monitoring;\
 Entertainment;\
 Job done;\
 Data collector';
