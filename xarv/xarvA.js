@@ -44,7 +44,8 @@ User Interface/IA (2015):2;\
 Vector Graphics (2015):1;\
 Web Design (2015):2;\
 Web Search (2015):3;\
-Web Scraping (2015):2';
+Web Scraping (2015):2;\
+WebGL (2015):1';
  JApliA=JAstrA.split(';');
  JVoutA='';
  JVdluA=700;
