@@ -3,7 +3,7 @@ window.addEventListener('load',JFarvB,false);
 
 function JFarvA(){
  JtuAa=document.getElementById('DIarvA');
- $.post("./arv/arvA.txt",function(response){
+ $.post("../arv/arvA.txt",function(response){
    JApliA=response.split(/\r\n|\r|\n/g);
    JVoutA='';
    JVdluA=700;
@@ -28,7 +28,7 @@ function JFarvA(){
 
 function JFarvB(){
  JtuAb=document.getElementById('DIarvB');
- $.post("./arv/arvB.txt",function(response){
+ $.post("../arv/arvB.txt",function(response){
    JApliB=response.split(/\r\n|\r|\n/g);
    JVoutB='<b class="BCxpdA">'+JApliB[0]+'</b>';
    i=1;
