@@ -3,7 +3,7 @@ window.addEventListener('load',JFarvB,false);
 window.addEventListener('load',JFarvC,false);
 
 function JFarvA(){
- JAstrB='IT subcontractor;\
+ JAstrB='IT freelancer;\
 Company website;\
 Bots;\
 Data processing;\
@@ -14,6 +14,7 @@ Animations;\
 Robots;\
 Personal website;\
 UI/IA designer;\
+IT subcontractor;\
 Entertainment;\
 Job done;\
 Data collector';
