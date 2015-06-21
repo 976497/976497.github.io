@@ -49,7 +49,7 @@ Web Scraping (2015):2';
  JVoutA='';
  JVdluA=700;
  i=0;
- while(i<JApliA.length-1){
+ while(i<JApliA.length){
   JVexA=JApliA[i].split(':');
   JVproA=Math.round(100*JVexA[1]/3);
   JVpixA=Math.round(JVdluA*JVproA/100);
@@ -80,7 +80,7 @@ Web Scraping';
  JApliB=JAstrB.split(';');
  JVoutB='<b class="BCxpdA">'+JApliB[0]+'</b>';
  i=1;
- while(i<JApliB.length-1){
+ while(i<JApliB.length){
   JVoutB+=', <b class="BCxpdA">'+JApliB[i]+'</b>';
   i++;
  }
