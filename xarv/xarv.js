@@ -3,7 +3,7 @@ window.addEventListener('load',JFarvB,false);
 window.addEventListener('load',JFarvC,false);
 
 function JFarvA(){
- JAstrB='IT freelancer;\
+ JAstrA='IT freelancer;\
 Company website;\
 Bots;\
 Data processing;\
@@ -26,7 +26,7 @@ Entertainment;\
 Job done;\
 Data collector';
  JViA=0;
- JAsplA=JAstrB.split(';');
+ JAsplA=JAstrA.split(';');
  JVoutA='';
  function JFnxtA(){
   JVoutA='<b class="BCbafA">'+JAsplA[JViA]+'</b>';
