@@ -1,0 +1,16 @@
+window.addEventListener('load',JFarvB,false);
+
+function JFarvB(){
+ JtuAa=document.getElementById('DIarvB);
+ $.post("./arv/arvB.txt",function(response){
+   JApliA=response.split(/\r\n|\r|\n/g);
+   JVoutA='<b class="BCxpdA">'+JApliA[0]+'</b>';
+   JVdluA=700;
+   i=1;
+   while(i<JApliA.length-1){
+    JVoutA+=', <b class="BCxpdA">'+JApliA[i]+'</b>';
+    i++;
+   }
+   JtuAa.innerHTML='<table>'+JVoutA+'</table>';
+ });return false;
+}
