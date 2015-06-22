@@ -11,8 +11,9 @@ Automation;\
 Visual reports;\
 Control systems;\
 Constant environmental measurments;\
-Animations;\
+Progress tracking solutions;\
 Robots;\
+Animations;\
 Personal website;\
 UI/IA designer;\
 IT subcontractor;\

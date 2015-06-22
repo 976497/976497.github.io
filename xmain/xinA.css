@@ -1,5 +1,5 @@
 div.DCtopA{
-   background-color:#333;
+   background-color:#CFE7EB;/*2*/
    border:0px solid #f00;
    width:100%;
    }
@@ -21,8 +21,8 @@ div.DCtopD{
 
 div.DCtopE{
    border:0px solid #f00;
-   background-color:#222;
-   color:#888;
+   background-color:#E7F3F5;/*1*/
+   color:#189;/*3*/
    display:table-cell;
    position:relative;
    top:0px;
