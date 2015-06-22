@@ -95,7 +95,7 @@ WebGL (2015):1';
   else{JVinfB='FLUENT';}
   JVstyA='<div class="DCexpBa" style="width:'+JVdluB+'px">&nbsp;</div>';
   JVstyB='<div class="DCexpBb" style="width:'+JVpixB+'px">&nbsp;</div>';
-  JVstyC='<div class="DCexpBc">'+JVinfB+'</div>&nbsp;';
+  JVstyC='<div class="DCexpBc">'+JVinfB+'</div>';
   JVoutB+='<tr><td>'+JVsplB[0]+'</td><td>'+JVstyA+JVstyB+JVstyC+'</td></tr>';
   JViB++;
  }
