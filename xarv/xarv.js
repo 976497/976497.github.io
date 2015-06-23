@@ -6,6 +6,7 @@ function JFarvA(){
  JAstrA='IT freelancer;\
 Company website;\
 Bots;\
+Web chat support service;\
 Data processing;\
 Automation;\
 Visual reports;\
@@ -64,7 +65,7 @@ Linux (2015):2;\
 Logo Design (2015):2;\
 MySQL (2013):1;\
 Optimisation (2012):1;\
-PayPal (2012):1;\
+PayPal API (2012):1;\
 Photo Editing (2012):1;\
 PHP (2015):3;\
 Procedural Programming (2015):2;\
