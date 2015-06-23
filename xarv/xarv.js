@@ -45,7 +45,7 @@ function JFarvB(){
 3D Animations (2012):1;\
 Ajax (2012):1;\
 Algorithmic Programming (2015):2;\
-API (2012):2;\
+APIs (2012):2;\
 ARM (2014):1;\
 Automation (2015):2;\
 Blender (2013):2;\
