@@ -18,7 +18,7 @@ Personal website;\
 UI/IA designer;\
 IT subcontractor;\
 Online checklists;\
-Business continuity cystem;\
+Business continuity system;\
 Real-time reporting system;\
 Cross-matching;\
 Graphical effects;\
