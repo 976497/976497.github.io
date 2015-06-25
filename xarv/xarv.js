@@ -6,6 +6,7 @@ function JFarvA(){
  JAstrA='IT freelancer;\
 Company website;\
 Bots;\
+New team member;\
 Web chat support service;\
 Data processing;\
 Automation;\
